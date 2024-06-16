@@ -8,14 +8,14 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "👨🏻‍💻 parthcodes",
+    pageTitle: "👨🏻‍💻 rh3xp",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "thenerdsuperuser.github.io/mindpalace",
+    baseUrl: "notes.rh3xp.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
